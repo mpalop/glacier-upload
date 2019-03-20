@@ -266,4 +266,4 @@ def calculate_total_tree_hash(list_of_checksums):
 
 
 if __name__ == '__main__':
-    upload()
+    upload_command()
